@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="LoginDBModelStoreContainer" CdmEntityContainer="LoginDBEntities">
+    <EntitySetMapping Name="loginId">
+      <EntityTypeMapping TypeName="LoginDBModel.loginId">
+        <MappingFragment StoreEntitySet="loginId">
+          <ScalarProperty Name="loginId1" ColumnName="loginId" />
+          <ScalarProperty Name="login" ColumnName="login" />
+          <ScalarProperty Name="password" ColumnName="password" />
+          <ScalarProperty Name="Imię" ColumnName="Imię" />
+          <ScalarProperty Name="Nazwisko" ColumnName="Nazwisko" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Platnosci">
+      <EntityTypeMapping TypeName="LoginDBModel.Platnosci">
+        <MappingFragment StoreEntitySet="Platnosci">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Kategoria" ColumnName="Kategoria" />
+          <ScalarProperty Name="Nazwa_produktu" ColumnName="Nazwa_produktu" />
+          <ScalarProperty Name="Cena" ColumnName="Cena" />
+          <ScalarProperty Name="Ilosc" ColumnName="Ilosc" />
+          <ScalarProperty Name="Data" ColumnName="Data" />
+          <ScalarProperty Name="loginId" ColumnName="loginId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

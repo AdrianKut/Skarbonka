@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="LoginDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="loginId">
+    <Key>
+      <PropertyRef Name="loginId" />
+    </Key>
+    <Property Name="loginId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="login" Type="nvarchar" MaxLength="50" />
+    <Property Name="password" Type="nvarchar" MaxLength="50" />
+    <Property Name="Imię" Type="nvarchar" MaxLength="50" />
+    <Property Name="Nazwisko" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Platnosci">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Kategoria" Type="nchar" MaxLength="10" />
+    <Property Name="Nazwa_produktu" Type="ntext" />
+    <Property Name="Cena" Type="money" />
+    <Property Name="Ilosc" Type="int" />
+    <Property Name="Data" Type="nvarchar" MaxLength="50" />
+    <Property Name="loginId" Type="int" />
+  </EntityType>
+  <EntityContainer Name="LoginDBModelStoreContainer">
+    <EntitySet Name="loginId" EntityType="Self.loginId" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Platnosci" EntityType="Self.Platnosci" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

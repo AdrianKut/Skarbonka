@@ -1,0 +1,156 @@
+C:\Users\Admin\Desktop\Skarbonka\Skarbonka\bin\Debug\Skarbonka.exe.config
+C:\Users\Admin\Desktop\Skarbonka\Skarbonka\bin\Debug\Skarbonka.exe
+C:\Users\Admin\Desktop\Skarbonka\Skarbonka\bin\Debug\Skarbonka.pdb
+C:\Users\Admin\Desktop\Skarbonka\Skarbonka\obj\Debug\Skarbonka.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Skarbonka\Skarbonka\obj\Debug\Skarbonka.Properties.Resources.resources
+C:\Users\Admin\Desktop\Skarbonka\Skarbonka\obj\Debug\Skarbonka.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Skarbonka\Skarbonka\obj\Debug\Skarbonka.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Skarbonka\Skarbonka\obj\Debug\Skarbonka.exe
+C:\Users\Admin\Desktop\Skarbonka\Skarbonka\obj\Debug\Skarbonka.pdb
+C:\Users\Admin\Desktop\Skarbonka\Skarbonka\obj\Debug\Skarbonka.FormLogin.resources
+C:\Users\Admin\Desktop\Skarbonka\Skarbonka\obj\Debug\Skarbonka.FormMain.resources
+C:\Users\Admin\Desktop\Skarbonka\Skarbonka\obj\Debug\Skarbonka.OpisProgramu.resources
+C:\Users\Admin\Desktop\Skarbonka\Skarbonka\bin\Debug\LoginDB.mdf
+C:\Users\Admin\Desktop\Skarbonka\Skarbonka\bin\Debug\LoginDB_log.ldf
+C:\Users\Admin\Desktop\Skarbonka\Skarbonka\obj\Debug\Skarbonka.CreateLogin.resources
+H:\Skarbonka\Skarbonka\bin\Debug\LoginDB.mdf
+H:\Skarbonka\Skarbonka\bin\Debug\LoginDB_log.ldf
+H:\Skarbonka\Skarbonka\bin\Debug\Skarbonka.exe.config
+H:\Skarbonka\Skarbonka\bin\Debug\Skarbonka.exe
+H:\Skarbonka\Skarbonka\bin\Debug\Skarbonka.pdb
+H:\Skarbonka\Skarbonka\obj\Debug\Skarbonka.csprojAssemblyReference.cache
+H:\Skarbonka\Skarbonka\obj\Debug\Skarbonka.CreateLogin.resources
+H:\Skarbonka\Skarbonka\obj\Debug\Skarbonka.FormLogin.resources
+H:\Skarbonka\Skarbonka\obj\Debug\Skarbonka.FormMain.resources
+H:\Skarbonka\Skarbonka\obj\Debug\Skarbonka.OpisProgramu.resources
+H:\Skarbonka\Skarbonka\obj\Debug\Skarbonka.Properties.Resources.resources
+H:\Skarbonka\Skarbonka\obj\Debug\Skarbonka.csproj.GenerateResource.cache
+H:\Skarbonka\Skarbonka\obj\Debug\Skarbonka.csproj.CoreCompileInputs.cache
+H:\Skarbonka\Skarbonka\obj\Debug\Skarbonka.exe
+H:\Skarbonka\Skarbonka\obj\Debug\Skarbonka.pdb
+C:\Users\AiXen\Desktop\Skarbonka\Skarbonka\bin\Debug\Skarbonka.exe.config
+C:\Users\AiXen\Desktop\Skarbonka\Skarbonka\bin\Debug\Skarbonka.exe
+C:\Users\AiXen\Desktop\Skarbonka\Skarbonka\bin\Debug\Skarbonka.pdb
+C:\Users\AiXen\Desktop\Skarbonka\Skarbonka\obj\Debug\Skarbonka.csprojAssemblyReference.cache
+C:\Users\AiXen\Desktop\Skarbonka\Skarbonka\obj\Debug\Skarbonka.CreateLogin.resources
+C:\Users\AiXen\Desktop\Skarbonka\Skarbonka\obj\Debug\Skarbonka.FormLogin.resources
+C:\Users\AiXen\Desktop\Skarbonka\Skarbonka\obj\Debug\Skarbonka.FormMain.resources
+C:\Users\AiXen\Desktop\Skarbonka\Skarbonka\obj\Debug\Skarbonka.OpisProgramu.resources
+C:\Users\AiXen\Desktop\Skarbonka\Skarbonka\obj\Debug\Skarbonka.Properties.Resources.resources
+C:\Users\AiXen\Desktop\Skarbonka\Skarbonka\obj\Debug\Skarbonka.csproj.GenerateResource.cache
+C:\Users\AiXen\Desktop\Skarbonka\Skarbonka\obj\Debug\Skarbonka.csproj.CoreCompileInputs.cache
+C:\Users\AiXen\Desktop\Skarbonka\Skarbonka\obj\Debug\Skarbonka.exe
+C:\Users\AiXen\Desktop\Skarbonka\Skarbonka\obj\Debug\Skarbonka.pdb
+C:\Users\AiXen\Desktop\OPERACJA\Skarbonka\Skarbonka\bin\Debug\Skarbonka.exe.config
+C:\Users\AiXen\Desktop\OPERACJA\Skarbonka\Skarbonka\bin\Debug\Skarbonka.exe
+C:\Users\AiXen\Desktop\OPERACJA\Skarbonka\Skarbonka\bin\Debug\Skarbonka.pdb
+C:\Users\AiXen\Desktop\OPERACJA\Skarbonka\Skarbonka\obj\Debug\Skarbonka.csprojAssemblyReference.cache
+C:\Users\AiXen\Desktop\OPERACJA\Skarbonka\Skarbonka\obj\Debug\Skarbonka.CreateLogin.resources
+C:\Users\AiXen\Desktop\OPERACJA\Skarbonka\Skarbonka\obj\Debug\Skarbonka.FormLogin.resources
+C:\Users\AiXen\Desktop\OPERACJA\Skarbonka\Skarbonka\obj\Debug\Skarbonka.FormMain.resources
+C:\Users\AiXen\Desktop\OPERACJA\Skarbonka\Skarbonka\obj\Debug\Skarbonka.OpisProgramu.resources
+C:\Users\AiXen\Desktop\OPERACJA\Skarbonka\Skarbonka\obj\Debug\Skarbonka.Properties.Resources.resources
+C:\Users\AiXen\Desktop\OPERACJA\Skarbonka\Skarbonka\obj\Debug\Skarbonka.csproj.GenerateResource.cache
+C:\Users\AiXen\Desktop\OPERACJA\Skarbonka\Skarbonka\obj\Debug\Skarbonka.csproj.CoreCompileInputs.cache
+C:\Users\AiXen\Desktop\OPERACJA\Skarbonka\Skarbonka\obj\Debug\Skarbonka.exe
+C:\Users\AiXen\Desktop\OPERACJA\Skarbonka\Skarbonka\obj\Debug\Skarbonka.pdb
+C:\Users\Admin\Desktop\OPERACJA\Skarbonka\Skarbonka\bin\Debug\Skarbonka.exe.config
+C:\Users\Admin\Desktop\OPERACJA\Skarbonka\Skarbonka\bin\Debug\Skarbonka.exe
+C:\Users\Admin\Desktop\OPERACJA\Skarbonka\Skarbonka\bin\Debug\Skarbonka.pdb
+C:\Users\Admin\Desktop\OPERACJA\Skarbonka\Skarbonka\obj\Debug\Skarbonka.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\OPERACJA\Skarbonka\Skarbonka\obj\Debug\Skarbonka.CreateLogin.resources
+C:\Users\Admin\Desktop\OPERACJA\Skarbonka\Skarbonka\obj\Debug\Skarbonka.FormLogin.resources
+C:\Users\Admin\Desktop\OPERACJA\Skarbonka\Skarbonka\obj\Debug\Skarbonka.FormMain.resources
+C:\Users\Admin\Desktop\OPERACJA\Skarbonka\Skarbonka\obj\Debug\Skarbonka.OpisProgramu.resources
+C:\Users\Admin\Desktop\OPERACJA\Skarbonka\Skarbonka\obj\Debug\Skarbonka.Properties.Resources.resources
+C:\Users\Admin\Desktop\OPERACJA\Skarbonka\Skarbonka\obj\Debug\Skarbonka.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\OPERACJA\Skarbonka\Skarbonka\obj\Debug\Skarbonka.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\OPERACJA\Skarbonka\Skarbonka\obj\Debug\Skarbonka.exe
+C:\Users\Admin\Desktop\OPERACJA\Skarbonka\Skarbonka\obj\Debug\Skarbonka.pdb
+D:\MEGA Cloud\Skarbonka\Skarbonka\bin\Debug\Skarbonka.exe.config
+D:\MEGA Cloud\Skarbonka\Skarbonka\bin\Debug\Skarbonka.exe
+D:\MEGA Cloud\Skarbonka\Skarbonka\bin\Debug\Skarbonka.pdb
+D:\MEGA Cloud\Skarbonka\Skarbonka\obj\Debug\Skarbonka.csprojAssemblyReference.cache
+D:\MEGA Cloud\Skarbonka\Skarbonka\obj\Debug\Skarbonka.CreateLogin.resources
+D:\MEGA Cloud\Skarbonka\Skarbonka\obj\Debug\Skarbonka.FormLogin.resources
+D:\MEGA Cloud\Skarbonka\Skarbonka\obj\Debug\Skarbonka.FormMain.resources
+D:\MEGA Cloud\Skarbonka\Skarbonka\obj\Debug\Skarbonka.OpisProgramu.resources
+D:\MEGA Cloud\Skarbonka\Skarbonka\obj\Debug\Skarbonka.Properties.Resources.resources
+D:\MEGA Cloud\Skarbonka\Skarbonka\obj\Debug\Skarbonka.csproj.GenerateResource.cache
+D:\MEGA Cloud\Skarbonka\Skarbonka\obj\Debug\Skarbonka.csproj.CoreCompileInputs.cache
+D:\MEGA Cloud\Skarbonka\Skarbonka\obj\Debug\Skarbonka.exe
+D:\MEGA Cloud\Skarbonka\Skarbonka\obj\Debug\Skarbonka.pdb
+C:\MEGA chmura\Skarbonka\Skarbonka\bin\Debug\Skarbonka.exe.config
+C:\MEGA chmura\Skarbonka\Skarbonka\bin\Debug\Skarbonka.exe
+C:\MEGA chmura\Skarbonka\Skarbonka\bin\Debug\Skarbonka.pdb
+C:\MEGA chmura\Skarbonka\Skarbonka\obj\Debug\Skarbonka.csprojAssemblyReference.cache
+C:\MEGA chmura\Skarbonka\Skarbonka\obj\Debug\Skarbonka.CreateLogin.resources
+C:\MEGA chmura\Skarbonka\Skarbonka\obj\Debug\Skarbonka.FormLogin.resources
+C:\MEGA chmura\Skarbonka\Skarbonka\obj\Debug\Skarbonka.FormMain.resources
+C:\MEGA chmura\Skarbonka\Skarbonka\obj\Debug\Skarbonka.OpisProgramu.resources
+C:\MEGA chmura\Skarbonka\Skarbonka\obj\Debug\Skarbonka.Properties.Resources.resources
+C:\MEGA chmura\Skarbonka\Skarbonka\obj\Debug\Skarbonka.csproj.GenerateResource.cache
+C:\MEGA chmura\Skarbonka\Skarbonka\obj\Debug\Skarbonka.csproj.CoreCompileInputs.cache
+C:\MEGA chmura\Skarbonka\Skarbonka\obj\Debug\Skarbonka.exe
+C:\MEGA chmura\Skarbonka\Skarbonka\obj\Debug\Skarbonka.pdb
+D:\MEGA chmura\Skarbonka\Skarbonka\bin\Debug\Skarbonka.exe.config
+D:\MEGA chmura\Skarbonka\Skarbonka\bin\Debug\Skarbonka.exe
+D:\MEGA chmura\Skarbonka\Skarbonka\bin\Debug\Skarbonka.pdb
+D:\MEGA chmura\Skarbonka\Skarbonka\obj\Debug\Skarbonka.csprojAssemblyReference.cache
+D:\MEGA chmura\Skarbonka\Skarbonka\obj\Debug\Skarbonka.CreateLogin.resources
+D:\MEGA chmura\Skarbonka\Skarbonka\obj\Debug\Skarbonka.FormLogin.resources
+D:\MEGA chmura\Skarbonka\Skarbonka\obj\Debug\Skarbonka.FormMain.resources
+D:\MEGA chmura\Skarbonka\Skarbonka\obj\Debug\Skarbonka.OpisProgramu.resources
+D:\MEGA chmura\Skarbonka\Skarbonka\obj\Debug\Skarbonka.Properties.Resources.resources
+D:\MEGA chmura\Skarbonka\Skarbonka\obj\Debug\Skarbonka.csproj.GenerateResource.cache
+D:\MEGA chmura\Skarbonka\Skarbonka\obj\Debug\Skarbonka.csproj.CoreCompileInputs.cache
+D:\MEGA chmura\Skarbonka\Skarbonka\obj\Debug\Skarbonka.exe
+D:\MEGA chmura\Skarbonka\Skarbonka\obj\Debug\Skarbonka.pdb
+D:\MEGA chmura\Skarbonka\Skarbonka\obj\Debug\Skarbonka.nowyWpis.resources
+C:\MEGA chmura\Skarbonka\Skarbonka\obj\Debug\Skarbonka.nowyWpis.resources
+C:\Users\AiXen\Desktop\Skarbonka\Skarbonka\obj\Debug\Skarbonka.nowyWpis.resources
+D:\MEGA chmura\Skarbonka\Skarbonka\bin\Debug\EntityFramework.dll
+D:\MEGA chmura\Skarbonka\Skarbonka\bin\Debug\EntityFramework.SqlServer.dll
+D:\MEGA chmura\Skarbonka\Skarbonka\bin\Debug\EntityFramework.xml
+D:\MEGA chmura\Skarbonka\Skarbonka\bin\Debug\EntityFramework.SqlServer.xml
+D:\MEGA chmura\Skarbonka\Skarbonka\obj\Debug\Skarbonka.csproj.CopyComplete
+D:\MEGA chmura\Skarbonka\Skarbonka\bin\Debug\itextsharp.dll
+D:\MEGA chmura\Skarbonka\Skarbonka\bin\Debug\itextsharp.xml
+D:\MEGA chmura\Skarbonka\Skarbonka\bin\Debug\MySql.Data.dll
+D:\MEGA chmura\Skarbonka\Skarbonka\bin\Debug\Google.Protobuf.dll
+D:\MEGA chmura\Skarbonka\Skarbonka\bin\Debug\BouncyCastle.Crypto.dll
+D:\MEGA chmura\Skarbonka\Skarbonka\bin\Debug\MySql.Data.xml
+C:\MEGA chmura\Skarbonka\Skarbonka\bin\Debug\EntityFramework.dll
+C:\MEGA chmura\Skarbonka\Skarbonka\bin\Debug\EntityFramework.SqlServer.dll
+C:\MEGA chmura\Skarbonka\Skarbonka\bin\Debug\itextsharp.dll
+C:\MEGA chmura\Skarbonka\Skarbonka\bin\Debug\Google.Protobuf.dll
+C:\MEGA chmura\Skarbonka\Skarbonka\bin\Debug\BouncyCastle.Crypto.dll
+C:\MEGA chmura\Skarbonka\Skarbonka\bin\Debug\EntityFramework.xml
+C:\MEGA chmura\Skarbonka\Skarbonka\bin\Debug\EntityFramework.SqlServer.xml
+C:\MEGA chmura\Skarbonka\Skarbonka\bin\Debug\itextsharp.xml
+C:\MEGA chmura\Skarbonka\Skarbonka\bin\Debug\MySql.Data.xml
+C:\MEGA chmura\Skarbonka\Skarbonka\obj\Debug\Skarbonka.csproj.CopyComplete
+I:\PWSZ Informatyka\II Rok\II semestr\Zaawansowane tech. progr. aplikacji baz C#\Skarbonka\Skarbonka\bin\Debug\Skarbonka.exe.config
+I:\PWSZ Informatyka\II Rok\II semestr\Zaawansowane tech. progr. aplikacji baz C#\Skarbonka\Skarbonka\bin\Debug\Skarbonka.exe
+I:\PWSZ Informatyka\II Rok\II semestr\Zaawansowane tech. progr. aplikacji baz C#\Skarbonka\Skarbonka\bin\Debug\Skarbonka.pdb
+I:\PWSZ Informatyka\II Rok\II semestr\Zaawansowane tech. progr. aplikacji baz C#\Skarbonka\Skarbonka\bin\Debug\EntityFramework.dll
+I:\PWSZ Informatyka\II Rok\II semestr\Zaawansowane tech. progr. aplikacji baz C#\Skarbonka\Skarbonka\bin\Debug\EntityFramework.SqlServer.dll
+I:\PWSZ Informatyka\II Rok\II semestr\Zaawansowane tech. progr. aplikacji baz C#\Skarbonka\Skarbonka\bin\Debug\itextsharp.dll
+I:\PWSZ Informatyka\II Rok\II semestr\Zaawansowane tech. progr. aplikacji baz C#\Skarbonka\Skarbonka\bin\Debug\Google.Protobuf.dll
+I:\PWSZ Informatyka\II Rok\II semestr\Zaawansowane tech. progr. aplikacji baz C#\Skarbonka\Skarbonka\bin\Debug\BouncyCastle.Crypto.dll
+I:\PWSZ Informatyka\II Rok\II semestr\Zaawansowane tech. progr. aplikacji baz C#\Skarbonka\Skarbonka\bin\Debug\EntityFramework.xml
+I:\PWSZ Informatyka\II Rok\II semestr\Zaawansowane tech. progr. aplikacji baz C#\Skarbonka\Skarbonka\bin\Debug\EntityFramework.SqlServer.xml
+I:\PWSZ Informatyka\II Rok\II semestr\Zaawansowane tech. progr. aplikacji baz C#\Skarbonka\Skarbonka\bin\Debug\itextsharp.xml
+I:\PWSZ Informatyka\II Rok\II semestr\Zaawansowane tech. progr. aplikacji baz C#\Skarbonka\Skarbonka\bin\Debug\MySql.Data.xml
+I:\PWSZ Informatyka\II Rok\II semestr\Zaawansowane tech. progr. aplikacji baz C#\Skarbonka\Skarbonka\obj\Debug\Skarbonka.csprojAssemblyReference.cache
+I:\PWSZ Informatyka\II Rok\II semestr\Zaawansowane tech. progr. aplikacji baz C#\Skarbonka\Skarbonka\obj\Debug\Skarbonka.CreateLogin.resources
+I:\PWSZ Informatyka\II Rok\II semestr\Zaawansowane tech. progr. aplikacji baz C#\Skarbonka\Skarbonka\obj\Debug\Skarbonka.FormLogin.resources
+I:\PWSZ Informatyka\II Rok\II semestr\Zaawansowane tech. progr. aplikacji baz C#\Skarbonka\Skarbonka\obj\Debug\Skarbonka.FormMain.resources
+I:\PWSZ Informatyka\II Rok\II semestr\Zaawansowane tech. progr. aplikacji baz C#\Skarbonka\Skarbonka\obj\Debug\Skarbonka.nowyWpis.resources
+I:\PWSZ Informatyka\II Rok\II semestr\Zaawansowane tech. progr. aplikacji baz C#\Skarbonka\Skarbonka\obj\Debug\Skarbonka.OpisProgramu.resources
+I:\PWSZ Informatyka\II Rok\II semestr\Zaawansowane tech. progr. aplikacji baz C#\Skarbonka\Skarbonka\obj\Debug\Skarbonka.Properties.Resources.resources
+I:\PWSZ Informatyka\II Rok\II semestr\Zaawansowane tech. progr. aplikacji baz C#\Skarbonka\Skarbonka\obj\Debug\Skarbonka.csproj.GenerateResource.cache
+I:\PWSZ Informatyka\II Rok\II semestr\Zaawansowane tech. progr. aplikacji baz C#\Skarbonka\Skarbonka\obj\Debug\Skarbonka.csproj.CoreCompileInputs.cache
+I:\PWSZ Informatyka\II Rok\II semestr\Zaawansowane tech. progr. aplikacji baz C#\Skarbonka\Skarbonka\obj\Debug\Skarbonka.csproj.CopyComplete
+I:\PWSZ Informatyka\II Rok\II semestr\Zaawansowane tech. progr. aplikacji baz C#\Skarbonka\Skarbonka\obj\Debug\Skarbonka.exe
+I:\PWSZ Informatyka\II Rok\II semestr\Zaawansowane tech. progr. aplikacji baz C#\Skarbonka\Skarbonka\obj\Debug\Skarbonka.pdb
